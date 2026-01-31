@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>IT-ELECT2</title>
+  </head>
+  
+<body>
+  <h1>Hello BSIT2</h1>
+  <hr/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5vykk5JiKnKxv3LwaqQ1fF45fKy2u8PoEVQ&s" width=400 height=600/>
+  <br/>
+  
+  <button onclick="window.open('https://www.youtube.com/watch?v=fWxQYzXVDRo&pp=ygUSbWFsaWNlIG1pemVyIGJyaXNl', '_blank', 'width=600,height=400,resizable=yes')">Open New Window</button>
+  <audio src="/assets/full-golden-freddy-scream.mp3" controls></audio>
+  <br/>
+  <ruby>
+  こんにちは <rp>(</rp><rt>Kon'nichiwa</rt><rp>)</rp>
+  みんな <rp>(</rp><rt>Min'na</rt><rp>)</rp>
+</ruby>
+
+</body>
+
+</html>
